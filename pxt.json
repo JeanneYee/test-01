@@ -8,7 +8,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "arcade-test-01.md"
+        "arcade-test-01.md",
+        "test02.md"
     ],
     "testFiles": [
         "test.ts"
