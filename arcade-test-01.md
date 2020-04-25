@@ -1,6 +1,8 @@
 ### @activities true
 ## Activity 1
 
+![Agent building a tower](/img/Me.jpg)
+
 ### Step 1
 
 Instructions for step 1 of activity 1 here...
