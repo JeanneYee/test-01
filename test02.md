@@ -3,7 +3,9 @@
 
 ## Basic
 
-let's do this
+![Dino Run](/img/images.png)
+
+let's do this 2
 ```blocks
 
 let mySprite = sprites.create(img`
